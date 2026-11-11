@@ -1,5 +1,5 @@
 
-# Named Encoder
+# python-encoder
 
 A Python text encryption and decryption library
 using AES-256-GCM.
@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-from named_encoder import encode, decode
+from python encoder import encode, decode
 
 text = "Hello World"
 key = "MySecretKey123"
