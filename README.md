@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-from python encoder import encode, decode
+from python_encoder import encode, decode
 
 text = "Hello World"
 key = "MySecretKey123"
